@@ -9,7 +9,6 @@ namespace LeGrandRestaurant
         public Franchise(Restaurant restaurant)
         {
             _menu = new Menu();
-            restaurant.ImposerMenu(_menu);
         }
 
         public void FixerPrix(Plat plat, decimal nouveauPrix)

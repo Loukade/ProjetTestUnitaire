@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "coverlet.collector/3.1.0": {
         "type": "package",
         "build": {
@@ -1673,7 +1673,7 @@
       },
       "LeGrandRestaurant/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/LeGrandRestaurant.dll": {}
         },
@@ -5980,7 +5980,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "LeGrandRestaurant >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "coverlet.collector >= 3.1.0",
@@ -5989,35 +5989,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kryza\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kryza\\Documents\\Sources\\EPSI\\LeGrandRestaurant\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
+      "projectUniqueName": "C:\\dev\\C#\\Projet\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
       "projectName": "LeGrandRestaurant.Test",
-      "projectPath": "C:\\Users\\kryza\\Documents\\Sources\\EPSI\\LeGrandRestaurant\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
-      "packagesPath": "C:\\Users\\kryza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kryza\\Documents\\Sources\\EPSI\\LeGrandRestaurant\\LeGrandRestaurant.Test\\obj\\",
+      "projectPath": "C:\\dev\\C#\\Projet\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\C#\\Projet\\LeGrandRestaurant.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kryza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://baget.ludd.info/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\kryza\\Documents\\Sources\\EPSI\\LeGrandRestaurant\\LeGrandRestaurant\\LeGrandRestaurant.csproj": {
-              "projectPath": "C:\\Users\\kryza\\Documents\\Sources\\EPSI\\LeGrandRestaurant\\LeGrandRestaurant\\LeGrandRestaurant.csproj"
+            "C:\\dev\\C#\\Projet\\LeGrandRestaurant\\LeGrandRestaurant.csproj": {
+              "projectPath": "C:\\dev\\C#\\Projet\\LeGrandRestaurant\\LeGrandRestaurant.csproj"
             }
           }
         }
@@ -6029,8 +6028,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

@@ -100,3 +100,12 @@ C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\n
 C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net6.0\ref\LeGrandRestaurant.Test.dll
 C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.pdb
 C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.genruntimeconfig.cache
+C:\dev\C#\Projet\LeGrandRestaurant.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.csproj.AssemblyReference.cache
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.AssemblyInfoInputs.cache
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.AssemblyInfo.cs
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.csproj.CoreCompileInputs.cache
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.dll
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\ref\LeGrandRestaurant.Test.dll
+C:\dev\C#\Projet\LeGrandRestaurant.Test\obj\Debug\net6.0\LeGrandRestaurant.Test.pdb

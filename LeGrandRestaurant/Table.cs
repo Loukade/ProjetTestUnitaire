@@ -1,14 +1,9 @@
-﻿using System;
-
-namespace LeGrandRestaurant
+﻿namespace LeGrandRestaurant
 {
     public class Table
     {
-        public bool EstLibre { get; private set; } = true;
-
-        public void InstallerClient()
+        public void Affecter(Client client)
         {
-            if (!EstLibre) throw new InvalidOperationException();
             EstLibre = false;
         }
 
@@ -16,5 +11,7 @@ namespace LeGrandRestaurant
         {
             EstLibre = true;
         }
+
+        internal bool EstLibre { get; private set; } = true;
     }
 }
