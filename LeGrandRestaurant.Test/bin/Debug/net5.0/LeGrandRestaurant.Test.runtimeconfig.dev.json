@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\kryza\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kryza\\.nuget\\packages"
-    ]
-  }
-}
