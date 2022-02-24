@@ -16,3 +16,4 @@ Avantage : facile à mettre en oeuvre
 Inconvénient : Les Tests nécessitent des connaissances en programmation et du temps pour le développement
 
 Avis : Celui qu'on a préféré est le test unitaire car le projet est pas énorme , facile et rapide à réaliser 
+ 
