@@ -5,7 +5,7 @@ then
 	if dotnet test ProjetTestUnitaire/LeGrandRestaurant
 	then 
 		mkdir integration
-		cp -r ProjetTestUnitaire/LeGrandRestaurant integration
+		cp -r ProjetTestUnitaire/LeGrandRestaurant integration 
 	fi
 fi
 $SHELL
